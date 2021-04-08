@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "UIView+Extension.h"
-#import "ZXYBSdkObject.h"
+#import <zxybpensdk/ZXYBSdkObject.h>
 
 @interface DrawView : UIView
 

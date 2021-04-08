@@ -9,7 +9,7 @@
 #import "DeviceViewController.h"
 #import "MBProgressHUD+KJExtension.h"
 #import "DrawView.h"
-#import "ZXYBSdk.h"
+#import <zxybpensdk/ZXYBSdk.h>
 
 #define KScreenWidth [UIScreen mainScreen].bounds.size.width
 #define KScreenHeight [UIScreen mainScreen].bounds.size.height
